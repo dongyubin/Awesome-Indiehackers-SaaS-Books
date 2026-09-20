@@ -15,6 +15,7 @@
 2.  [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps)：出海实战指南 注册美国 LLC、申请 EIN、开通 Stripe 手把手从零开始，别花冤枉钱找代办
 3.  [XiaomingX/ai-money-maker-handbook: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.](https://github.com/XiaomingX/ai-money-maker-handbook)：AI 副业赚钱思路大全 各种 AI 工具做副业的玩法和案例
 5.  [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)：独立开发者变现资源合集 出海独立开发的经典入门参考
+7.  [darweesh128-cmd/client-close-kit](https://darweesh128-cmd.github.io/client-close-kit/)：免费浏览器端自由职业工具包（发票/报价/月费协议大纲/NDA/工时表），MIT，无需注册
 6.  [1c7/chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目汇总 看看国内同行在做什么、怎么变现 选题没灵感的时候翻一翻
 
 ## SaaS服务（个人快速建站）
