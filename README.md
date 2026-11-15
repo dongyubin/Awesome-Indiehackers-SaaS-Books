@@ -255,4 +255,5 @@
 
 ## 教程指南
 
-- [独立开发者出海指南导航](https://www.wangdu.site/course/2074.html)：独立开发者手册，Decohack Wiki旨在指导构建互联网产品。涵盖全职开发所需耐心、灵感来源、支付方法、技术栈与工具、SEO优化、开源项目和推广。提供全球收款注册指南、海外公司注册、工具资源等。
+- [独立开发者出海指南导航](https://www.wangdu.site/course/2074.html)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp)：面向独立音乐人和演出场地买家的免费远程 MCP 服务器与北美（美国及加拿大）现场音乐场地目录，支持通过 Claude、ChatGPT 等 AI 助手查询场地容量、无障碍信息及巡演路线规划。：独立开发者手册，Decohack Wiki旨在指导构建互联网产品。涵盖全职开发所需耐心、灵感来源、支付方法、技术栈与工具、SEO优化、开源项目和推广。提供全球收款注册指南、海外公司注册、工具资源等。
